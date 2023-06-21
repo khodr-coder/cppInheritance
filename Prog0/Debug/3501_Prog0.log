@@ -1,0 +1,4 @@
+﻿  agencyCompanyPay.cpp
+C:\Users\Khodr\source\repos\3501_Prog0\agencyCompanyPay.cpp(32,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Khodr\source\repos\3501_Prog0\agencyCompanyPay.cpp(34,16): warning C4305: '=': truncation from 'double' to 'float'
+  3501_Prog0.vcxproj -> C:\Users\Khodr\source\repos\3501_Prog0\Debug\3501_Prog0.exe
